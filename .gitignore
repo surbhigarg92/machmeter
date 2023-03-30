@@ -5,6 +5,7 @@
 *.lst
 */output.txt
 */machmeter_output/*
-*.log
+*/jmeter-test-new/*
+
 */src/test/golang/**/*.h
 */src/test/golang/**/*.so
